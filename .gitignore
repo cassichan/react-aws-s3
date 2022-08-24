@@ -1,5 +1,7 @@
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+AWSCLIV2.pkg
 
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+aws-api-keypair.pem
 # dependencies
 /node_modules
 /.pnp
